@@ -6,3 +6,4 @@ pip install opencv-python -i https://pypi.tuna.tsinghua.edu.cn/simple
 pip install Beautifulsoup4 -i https://pypi.tuna.tsinghua.edu.cn/simple
 ............
 
+https://github.com/mengxianshengaaa/IPTV
